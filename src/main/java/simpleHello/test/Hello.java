@@ -6,6 +6,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Hi from feature 1");
+		System.out.println("Hi from feature 2");
 		
 	}
 
